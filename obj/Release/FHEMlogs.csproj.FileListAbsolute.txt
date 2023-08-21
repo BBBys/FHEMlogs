@@ -1,0 +1,8 @@
+D:\SWProjekte\FHEM_SensorCheck\FHEMlogs\bin\Release\FHEMlogs.exe.config
+D:\SWProjekte\FHEM_SensorCheck\FHEMlogs\bin\Release\FHEMlogs.exe
+D:\SWProjekte\FHEM_SensorCheck\FHEMlogs\bin\Release\FHEMlogs.pdb
+D:\SWProjekte\FHEM_SensorCheck\FHEMlogs\obj\Release\FHEMlogs.csproj.AssemblyReference.cache
+D:\SWProjekte\FHEM_SensorCheck\FHEMlogs\obj\Release\FHEMlogs.csproj.SuggestedBindingRedirects.cache
+D:\SWProjekte\FHEM_SensorCheck\FHEMlogs\obj\Release\FHEMlogs.csproj.CoreCompileInputs.cache
+D:\SWProjekte\FHEM_SensorCheck\FHEMlogs\obj\Release\FHEMlogs.exe
+D:\SWProjekte\FHEM_SensorCheck\FHEMlogs\obj\Release\FHEMlogs.pdb

@@ -1,0 +1,16 @@
+D:\GitHub\FHEM_SensorCheck\FHEMlogs\bin\Debug\FHEMlogs.exe.config
+D:\GitHub\FHEM_SensorCheck\FHEMlogs\bin\Debug\FHEMlogs.exe
+D:\GitHub\FHEM_SensorCheck\FHEMlogs\bin\Debug\FHEMlogs.pdb
+D:\GitHub\FHEM_SensorCheck\FHEMlogs\obj\Debug\FHEMlogs.csproj.AssemblyReference.cache
+D:\GitHub\FHEM_SensorCheck\FHEMlogs\obj\Debug\FHEMlogs.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\FHEM_SensorCheck\FHEMlogs\obj\Debug\FHEMlogs.csproj.CoreCompileInputs.cache
+D:\GitHub\FHEM_SensorCheck\FHEMlogs\obj\Debug\FHEMlogs.exe
+D:\GitHub\FHEM_SensorCheck\FHEMlogs\obj\Debug\FHEMlogs.pdb
+D:\SWProjekte\FHEM_SensorCheck\FHEMlogs\bin\Debug\FHEMlogs.exe.config
+D:\SWProjekte\FHEM_SensorCheck\FHEMlogs\bin\Debug\FHEMlogs.exe
+D:\SWProjekte\FHEM_SensorCheck\FHEMlogs\bin\Debug\FHEMlogs.pdb
+D:\SWProjekte\FHEM_SensorCheck\FHEMlogs\obj\Debug\FHEMlogs.csproj.AssemblyReference.cache
+D:\SWProjekte\FHEM_SensorCheck\FHEMlogs\obj\Debug\FHEMlogs.csproj.SuggestedBindingRedirects.cache
+D:\SWProjekte\FHEM_SensorCheck\FHEMlogs\obj\Debug\FHEMlogs.csproj.CoreCompileInputs.cache
+D:\SWProjekte\FHEM_SensorCheck\FHEMlogs\obj\Debug\FHEMlogs.exe
+D:\SWProjekte\FHEM_SensorCheck\FHEMlogs\obj\Debug\FHEMlogs.pdb
