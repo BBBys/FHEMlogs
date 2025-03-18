@@ -1,18 +1,18 @@
 # FHEMlogs
-Hilfsprogramm für das Smart-Home-Paket FHEM
-
-Feststellen, wann ein Sensor zuletzt Daten gesendet hat
+Hilfsprogramm für das [Smart-Home-Paket FHEM](https://fhem.de/fhem.html)
+> [!NOTE]
+> Feststellen, wann ein Sensor zuletzt Daten gesendet hat
 ## Problem
 Smart Home mit FHEM: 
-- Sensoren senden Daten
-- Daten werden in Logfiles gespeichert
-- Sensoren können ausfallen
+- :green_square: Sensoren senden Daten
+- :green_square: Daten werden in Logfiles gespeichert
+- :red_square: Sensoren können ausfallen :hurtrealbad::hurtrealbad::hurtrealbad: 
 ## Lösung
 - Programm liest Logfiles
 - stellt fest, wann ein Sensor zuletzt gesensort hat
-- alarmiert, wenn das zu lange her ist
+- alarmiert, wenn das zu lange her ist :warning:
 ## Installation
-in crom.daily:
+in cron.daily:
 ```
 mono /usr/local/fhemskripte/FHEMlogs.exe  /opt/fhem/log
 ```
